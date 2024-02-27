@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s GitHub Profile!
+# Welcome to Ray's GitHub Profile!
 
 👋 Hello there! Welcome to my GitHub profile. I'm Ray, a passionate dev with a strong foundation in Full development and a keen interest in building innovative solutions to real-world problems. Here you'll find a collection of my projects.
 
